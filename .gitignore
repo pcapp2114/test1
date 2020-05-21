@@ -1,0 +1,15 @@
+# Ignore binaries.
+
+
+# Ignore non-custom parts of Drupal.
+/docroot/sites/default/settings.php
+/docroot/sites/default/files
+/docroot/uploads
+/docroot/files
+
+# Ignore Composer-managed dependencies.
+
+# Sass/Compass
+
+.sass-cache/
+
