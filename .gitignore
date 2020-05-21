@@ -2,10 +2,10 @@
 
 
 # Ignore non-custom parts of Drupal.
-/docroot/sites/default/settings.php
-/docroot/sites/default/files
-/docroot/uploads
-/docroot/files
+/web/sites/default/settings.php
+/web/sites/default/files
+/web/uploads
+/web/files
 
 # Ignore Composer-managed dependencies.
 
