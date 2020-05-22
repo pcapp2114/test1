@@ -24,6 +24,7 @@
         "drupal/ctools": "^3.4",
         "drupal/libraries": "^3.0",
         "drupal/linkit": "^4.3",
+        "drupal/maxlength": "^1.0",
         "drupal/redirect": "1.6",
         "drupal/shs": "^1.0",
         "drush/drush": "8.*"
