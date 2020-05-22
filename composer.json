@@ -27,6 +27,7 @@
         "drupal/maxlength": "^1.0",
         "drupal/redirect": "1.6",
         "drupal/shs": "^1.0",
+        "drupal/twig_tweak": "^2.6",
         "drush/drush": "8.*"
     },
     "require-dev": {
