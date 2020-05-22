@@ -24,6 +24,7 @@
         "drupal/libraries": "^3.0",
         "drupal/linkit": "^4.3",
         "drupal/redirect": "1.6",
+        "drupal/shs": "^1.0",
         "drush/drush": "8.*"
     },
     "require-dev": {
