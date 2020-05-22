@@ -28,6 +28,7 @@
         "drupal/redirect": "1.6",
         "drupal/shs": "^1.0",
         "drupal/twig_tweak": "^2.6",
+        "drupal/viewsreference": "^1.4",
         "drush/drush": "8.*"
     },
     "require-dev": {
