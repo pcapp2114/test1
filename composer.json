@@ -22,6 +22,7 @@
         "drupal/core-recommended": "^8.8",
         "drupal/crop": "^2.1",
         "drupal/ctools": "^3.4",
+        "drupal/entity_embed": "^1.1",
         "drupal/libraries": "^3.0",
         "drupal/linkit": "^4.3",
         "drupal/maxlength": "^1.0",
